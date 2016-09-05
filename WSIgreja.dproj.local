@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/07/11 11:02:51.000.914,=C:\Users\programacao02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/05 15:54:38.846,=C:\Users\programacao02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/05 15:55:37.754,C:\Wesley\Unit1.dfm=C:\Users\programacao02\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/09/05 15:55:37.754,C:\Wesley\Unit1.pas=C:\Users\programacao02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/05 15:55:54.047,C:\Wesley\Igreja\Forms\ULogin.dfm=C:\Wesley\Unit1.dfm</Transaction>
+    <Transaction>2016/09/05 15:55:54.047,C:\Wesley\Igreja\Forms\ULogin.pas=C:\Wesley\Unit1.pas</Transaction>
+    <Transaction>2016/09/05 15:56:01.987,C:\Wesley\Igreja\WSIgreja.dproj=C:\Users\programacao02\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/09/05 15:56:29.040,=C:\Wesley\Igreja\Unit2.pas</Transaction>
+    <Transaction>2016/09/05 15:56:36.397,C:\Wesley\Igreja\Forms\UDefault.pas=C:\Wesley\Igreja\Unit2.pas</Transaction>
+    <Transaction>2016/09/05 15:56:36.397,C:\Wesley\Igreja\Forms\UDefault.dfm=C:\Wesley\Igreja\Unit2.dfm</Transaction>
+    <Transaction>2016/09/05 15:57:04.850,=C:\Wesley\Igreja\Unit3.pas</Transaction>
+    <Transaction>2016/09/05 15:57:47.942,=C:\Wesley\Igreja\Unit1.pas</Transaction>
+    <Transaction>2016/09/05 15:57:59.173,C:\Wesley\Igreja\Forms\UPrincipal.dfm=C:\Wesley\Igreja\Unit1.dfm</Transaction>
+    <Transaction>2016/09/05 15:57:59.173,C:\Wesley\Igreja\Forms\UPrincipal.pas=C:\Wesley\Igreja\Unit1.pas</Transaction>
+    <Transaction>2016/09/05 16:49:20.086,=C:\Wesley\Igreja\Unit1.pas</Transaction>
+    <Transaction>2016/09/05 16:49:36.707,C:\Wesley\Igreja\Acesso\UConexao.pas=C:\Wesley\Igreja\Unit1.pas</Transaction>
+    <Transaction>2016/09/05 17:02:23.431,=C:\Wesley\Igreja\Unit1.pas</Transaction>
+    <Transaction>2016/09/05 17:02:34.292,C:\Wesley\Igreja\Acesso\UConfigIni.pas=C:\Wesley\Igreja\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
