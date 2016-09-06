@@ -13,6 +13,8 @@ object FLogin: TFLogin
   Font.Style = []
   OldCreateOrder = False
   Position = poScreenCenter
+  OnCreate = FormCreate
+  OnShow = FormShow
   PixelsPerInch = 96
   TextHeight = 13
   object pnl1: TRzPanel
@@ -807,6 +809,7 @@ object FLogin: TFLogin
           Style.IsFontAssigned = True
           TabOrder = 0
           TextHint = 'Digite seu usu'#225'rio'
+          OnKeyPress = edtUsuarioKeyPress
           Width = 321
         end
         object edtSenha: TcxTextEdit
@@ -823,6 +826,7 @@ object FLogin: TFLogin
           Style.IsFontAssigned = True
           TabOrder = 1
           TextHint = 'Digite sua senha'
+          OnKeyPress = edtSenhaKeyPress
           Width = 321
         end
       end
